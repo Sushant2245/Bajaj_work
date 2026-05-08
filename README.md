@@ -1,4 +1,4 @@
-# VaibhavKesharwani
+# Sushant Gupta
 # Coding Problems Collection
 
 This repository contains a collection of coding problems solved in Java, organized by days and categories. These problems are primarily from LeetCode, Codeforces, and other coding platforms, focusing on algorithms, data structures, and problem-solving techniques.
